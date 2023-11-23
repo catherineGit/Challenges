@@ -1,5 +1,5 @@
 # Betterment - Automated Investment Management
-![Betterment](.\image\Betterment_logo.png)
+![Betterment](\image\Betterment_logo.png)
 ## Overview and Origin
 
 * Betterment is a finech company headquatered in New York of USA. It is one of the largest independent online financial advisor withautomated investment management in the USA which provides digital investment, retirement and cash management services. 
