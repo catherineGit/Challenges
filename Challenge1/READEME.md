@@ -1,5 +1,5 @@
 # Betterment - Automated Investment Management
-![Betterment](.\image\Betterment_logo.png)
+
 ## Overview and Origin
 
 * Betterment is a finech company headquatered in New York of USA. It is one of the largest independent online financial advisor withautomated investment management in the USA which provides digital investment, retirement and cash management services. [1]
@@ -39,7 +39,6 @@ The company launched at TechCrunch Disrupt New York in June 2010, and won the aw
     6. Comprehensive Financial Planning Tools.
 
     Moreover, **Early Market Entry**, **Brand Recognition** and **Continuous Innovation** are other factors contribute to its competitive edge in the robo-advisory and financial technology space.
-![Betterment](.\image\Betterment_account_overview.jpg)
 
 * Betterment has a history of continuous innovation, regularly introducing new features, technologies, more comprehensive financial planning tools and improvements to its platform. This commitment to innovation allows Betterment to stay competitive and adapt to evolving investor needs and industry trends. So far, Betterment has well used following technologies to enhance the overall user experience:
     1. Robo-Advisory Algorithms: Betterment relies on robo-advisory algorithms to automate the investment process. These algorithms analyze user-provided data, such as risk tolerance, financial goals, and time horizons, to create and manage diversified portfolios of low-cost index funds or ETFs.
@@ -162,6 +161,7 @@ Betterment is performing as top player with awards winning records. It has becom
 * Financial professionals tailored Chatbots powered by NLP could answer user queries, and offer personalized financial advice with operational improvements. Advanced automation will automate routine and repetitive tasks within the investment management process，continuously improve the efficiency of the investment firm operations and reducing the risk of errors.
 
 All in all, by leveraging those new technologies could enhance Betterment future performance, and user benefits offerings and secure the company's seat at a competitive position.
+<<<<<<< HEAD
 
 ## Footnotes
 [1]: ["Digital Advisory Firm Betterment Enters Crypto With Makara Acquisition"](https://www.investopedia.com/betterment-enters-crypto-with-makara-acquisition-5218550). Investopedia. Retrieved 2022-03-15.
@@ -173,3 +173,5 @@ All in all, by leveraging those new technologies could enhance Betterment future
 [4]:["Betterment Holdings, Inc. SEC Registration"](https://sec.report/CIK/0001508388). sec.report. Retrieved 2021-08-04.
 
 [5]: [Betterment Crunchbase](https://www.crunchbase.com/organization/betterment)
+=======
+>>>>>>> 7dbf3ce417b3cf93f6f3ed8de2eda3b55d6d297f
