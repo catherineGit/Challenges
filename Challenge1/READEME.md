@@ -1,5 +1,7 @@
 # Betterment - Automated Investment Management
-![Betterment](\image\Betterment_logo.png)
+
+![Betterment](.\image\Betterment_logo.png)
+
 ## Overview and Origin
 
 * Betterment is a finech company headquatered in New York of USA. It is one of the largest independent online financial advisor withautomated investment management in the USA which provides digital investment, retirement and cash management services. 
@@ -39,6 +41,7 @@ The company launched at TechCrunch Disrupt New York in June 2010, and won the aw
     6. Comprehensive Financial Planning Tools.
 
     Moreover, **Early Market Entry**, **Brand Recognition** and **Continuous Innovation** are other factors contribute to its competitive edge in the robo-advisory and financial technology space.
+
 ![Betterment](.\image\Betterment_account_overview.jpg)
 
 * Betterment has a history of continuous innovation, regularly introducing new features, technologies, more comprehensive financial planning tools and improvements to its platform. This commitment to innovation allows Betterment to stay competitive and adapt to evolving investor needs and industry trends. So far, Betterment has well used following technologies to enhance the overall user experience:
