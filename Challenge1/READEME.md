@@ -2,15 +2,15 @@
 ![Betterment](.\image\Betterment_logo.png)
 ## Overview and Origin
 
-* Betterment is a finech company headquatered in New York of USA. It is one of the largest independent online financial advisor withautomated investment management in the USA which provides digital investment, retirement and cash management services. 
+* Betterment is a finech company headquatered in New York of USA. It is one of the largest independent online financial advisor withautomated investment management in the USA which provides digital investment, retirement and cash management services. [1]
 
-* Betterment was founded in 2008 in New York City by Jon Stein, a Columbia Business School MBA graduate, and Eli Broverman, a lawyer out of NYU School of Law. Betterment, LLC was established as a Delaware corporation on April 7, 2009.The parent company for Betterment LLC and Betterment Securities, Betterment Holdings, Inc. was established in Delaware on January 29, 2008.
+* Betterment was founded in 2008 in New York City by Jon Stein, a Columbia Business School MBA graduate, [2] and Eli Broverman, a lawyer out of NYU School of Law. [3] Betterment, LLC was established as a Delaware corporation on April 7, 2009.The parent company for Betterment LLC and Betterment Securities, Betterment Holdings, Inc. was established in Delaware on January 29, 2008.[4]
 
 
 * The idea for Betterment emerged from their recognition of inefficiencies and challenges in the traditional investment and financial advisory industry. The founders sought to leverage the advancement of emerging technology to create a more streamlined and user-friendly approach to investing.
 
 * How is the company funded? How much funding have they received?
-The company launched at TechCrunch Disrupt New York in June 2010, and won the award of "Biggest New York Disruptor". Within 24 hours, Betterment had attracted nearly 400 early customers, and the company starts to raise several rounds of funding from various investors as below:
+The company launched at TechCrunch Disrupt New York in June 2010, and won the award of "Biggest New York Disruptor". Within 24 hours, Betterment had attracted nearly 400 early customers, and the company starts to raise several rounds of funding from various investors as below: [5]
 
     1. Series A: Betterment announced its Series A funding in 2010, raising $3 million. The round was led by Bessemer Venture Partners.
 
@@ -162,3 +162,14 @@ Betterment is performing as top player with awards winning records. It has becom
 * Financial professionals tailored Chatbots powered by NLP could answer user queries, and offer personalized financial advice with operational improvements. Advanced automation will automate routine and repetitive tasks within the investment management process，continuously improve the efficiency of the investment firm operations and reducing the risk of errors.
 
 All in all, by leveraging those new technologies could enhance Betterment future performance, and user benefits offerings and secure the company's seat at a competitive position.
+
+## Footnotes
+[1]: ["Digital Advisory Firm Betterment Enters Crypto With Makara Acquisition"](https://www.investopedia.com/betterment-enters-crypto-with-makara-acquisition-5218550). Investopedia. Retrieved 2022-03-15.
+
+[2]:School, Columbia (2014-04-09). ["Jon Stein '09 on the Entrepreneurial Experience"](https://www8.gsb.columbia.edu/video/videos/jon-stein-09-entrepreneurial-experience). Video Library. Retrieved 2021-08-04.
+
+[3]:Cohan, Peter. ["Growing At 300% To $8.5 Billion, Betterment Offers Fee, Tax Edge"](https://www.forbes.com/sites/petercohan/2017/04/26/growing-at-300-to-8-5-billion-betterment-offers-fee-tax-edge/). Forbes. Retrieved 2021-08-04.
+
+[4]:["Betterment Holdings, Inc. SEC Registration"](https://sec.report/CIK/0001508388). sec.report. Retrieved 2021-08-04.
+
+[5]: [Betterment Crunchbase](https://www.crunchbase.com/organization/betterment)
